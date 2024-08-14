@@ -1,0 +1,57 @@
+.body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Ea9wobDzZtvpYQ9xpQF3zNENSL0pOxklg&s');
+  background-size: 100% 1000px;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+}
+
+
+.App {
+  text-align:center;
+  border: 10px solid black;
+  width: 400px;
+  height: 885px;
+  display: inline-block;
+  margin: 20px;
+
+}
+
+img{
+  width: 400px;
+  height: 400px;
+ 
+  margin-bottom: 20px;
+  
+}
+audio{
+  border: 5px solid blue;
+}
+
+video{
+ width: 400px;
+ height: 400px;
+ 
+}
+
+
+.app1{
+  text-align: center;
+  border: 10px solid black;
+  width: 400px;
+  height: 885px;
+  display: inline-block;
+  margin: 20px;
+
+}
+.app2{
+  text-align: center;
+  border: 10px solid black;
+  width: 400px;
+  height: 885px;
+  display: inline-block;
+  margin: 20px;
+  /* display: block;
+  margin-left: 1000px; */
+
+}
